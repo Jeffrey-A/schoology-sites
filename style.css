@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body{
+    width: 200px;
+}
+
+.center{
+    text-align: center;
+}
+
+.title{
+    background-color: #0677ba;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.link-container{
+    margin:10px;
+
+}
+
+.white{
+    color: #ffffff;
+}
+
+a{
+    text-decoration: none;
+    display: block;
+    color: #0677ba;
+}
+
+a:hover{
+    color: #ffffff;
+    background-color: #0677ba;
+    font-size: 1rem;
+}
